@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+
+## App Image
+
+![App](assets/counterapp.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
