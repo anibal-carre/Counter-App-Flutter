@@ -1,6 +1,6 @@
 # hello_world_app
 
-A new Flutter project.
+My first Flutter project.
 
 
 ## App Image
