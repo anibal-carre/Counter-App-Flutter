@@ -6,7 +6,7 @@ A new Flutter project.
 ## App Image
 
 <div align="center" width="100%" >
-  <img src="assets/counterapp.jpg" alt="Captura de pantalla de la aplicación" width="500"/>
+  <img src="assets/counterapp.jpg" alt="Captura de pantalla de la aplicación" width="400"/>
 </div>
 
 ## Getting Started
